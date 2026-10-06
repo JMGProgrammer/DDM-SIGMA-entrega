@@ -45,6 +45,16 @@ Flujo: Inicio → Equipos → Detalle (vuelve con ←). Cada botón usa
 `Link + asChild + Pressable`. El detalle lee el `id` de la URL con
 `useLocalSearchParams`.
 
+## Capturas
+
+| Inicio | Equipos | Detalle |
+|---|---|---|
+| ![Inicio](screenshots/ss1-inicio.jpeg) | ![Equipos](screenshots/ss2-equipos.jpeg) | ![Detalle](screenshots/ss3-detalles-eq.jpeg) |
+
+| Tareas | Nueva tarea |
+|---|---|
+| ![Tareas](screenshots/ss4-tareas.jpeg) | ![Nueva tarea](screenshots/ss5-nueva-tarea.jpeg) |
+
 ## Casos de prueba
 
 1. Los 3 botones de Inicio abren su pantalla.
